@@ -1,8 +1,8 @@
-import './Footer.jsx';
+import './Footer.scss';
 
 function Footer() {
     return (
-        <div>
+        <div id="footer">
             <h1>Footer</h1>
             {console.log('Footer')}
         </div>
